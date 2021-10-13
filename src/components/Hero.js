@@ -1,7 +1,7 @@
 import React from "react"
 import styled from "styled-components"
 import { Button } from "./Button"
-import Video from "../assets/videos/video4.mp4"
+import Video from "../assets/videos/video1.mp4"
 
 const Hero = () => {
   return (
@@ -25,27 +25,27 @@ const Hero = () => {
 export default Hero
 
 const HeroContainer = styled.div`
-background: #0c0c0c;
-display: flex;
-justify-content: center;
-align-items:center;
-height: 100vh;
-padding: 0 1rem;
-position: relative;
-margin-top: -80px;
-color: #fff;
+  background: #0c0c0c;
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  height: 100vh;
+  padding: 0 1rem;
+  position: relative;
+  margin-top: -80px;
+  color: #444;
 
-:before {
-    content: "",
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    left: 0;  
-    z-index: 2;
-    background: linear-gradient(180deg, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.6) 100%),
-    ), linear-gradient(180deg, rgba(0,0,0,0.2) 0%, transparent 100%)
-}
+  :before {
+      content: "",
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      left: 0;  
+      z-index: 2;
+      background: linear-gradient(180deg, rgba(0,0,0,0.2) 0%, rgba(0,0,0,0.6) 100%),
+      ), linear-gradient(180deg, rgba(0,0,0,0.2) 0%, transparent 100%)
+  }
 `
 
 const HeroBg = styled.div`
@@ -94,6 +94,7 @@ const HeroH1 = styled.h1`
   font-weight: bold;
   padding: 0 1rem;
   font-family: "Montserrat", sans-serif;
+  color: #333;
 `
 
 const HeroP = styled.p`
@@ -101,4 +102,5 @@ const HeroP = styled.p`
   margin-bottom: 2rem;
   font-weight: 400;
   font-family: "Montserrat", sans-serif;
+  color: #333;
 `

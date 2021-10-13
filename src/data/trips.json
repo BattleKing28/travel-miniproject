@@ -22,5 +22,53 @@
       "alt": "img",
       "name": "Paris , France",
       "button": "View Destination"
+   },
+   {
+      "img": "../assets/images/bali.jpg",
+      "alt": "img",
+      "name": "Bali , Indonesia",
+      "button": "View Destination"
+   },
+   {
+      "img": "../assets/images/dubai.jpg",
+      "alt": "img",
+      "name": "Dubai , UAE",
+      "button": "View Destination"
+   },
+   {
+      "img": "../assets/images/rome.jpg",
+      "alt": "img",
+      "name": "Rome , Italy",
+      "button": "View Destination"
+   },
+   {
+      "img": "../assets/images/crete.jpg",
+      "alt": "img",
+      "name": "Crete , Greece",
+      "button": "View Destination"
+   },
+   {
+      "img": "../assets/images/barcelona.jpg",
+      "alt": "img",
+      "name": "Barcelona , Spain",
+      "button": "View Destination"
+   },
+   {
+      "img": "../assets/images/phuket.jpg",
+      "alt": "img",
+      "name": "Phuket , Thailand",
+      "button": "View Destination"
+   },
+   {
+      "img": "../assets/images/manali.jpg",
+      "alt": "img",
+      "name": "Manali , India",
+      "button": "View Destination"
+   },
+   {
+      "img": "../assets/images/lisbon.jpg",
+      "alt": "img",
+      "name": "Lisbon , Portugal",
+      "button": "View Destination"
    }
 ]

@@ -39,7 +39,7 @@ const Nav = styled.nav`
 `
 
 const NavLink = styled(Link)`
-  color: #f5f5f5;
+  color: #333;
   display: flex;
   align-items: center;
   text-decoration: none;
