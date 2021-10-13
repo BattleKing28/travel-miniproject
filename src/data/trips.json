@@ -1,0 +1,26 @@
+[
+   {
+      "img": "../assets/images/sikkim.jpg",
+      "alt": "img",
+      "name": "Sikkim , India",
+      "button": "View Destination"
+   },
+   {
+      "img": "../assets/images/italy.jpg",
+      "alt": "img",
+      "name": "Italy , Europe",
+      "button": "View Destination"
+   },
+   {
+      "img": "../assets/images/switzerland.jpg",
+      "alt": "img",
+      "name": "Switzerland , Europe",
+      "button": "View Destination"
+   },
+   {
+      "img": "../assets/images/paris.jpg",
+      "alt": "img",
+      "name": "Paris , France",
+      "button": "View Destination"
+   }
+]
