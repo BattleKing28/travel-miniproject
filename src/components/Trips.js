@@ -14,6 +14,8 @@ const Trips = ({ heading }) => {
             alt
             button
             name
+            link
+            price
             img {
               childImageSharp {
                 fluid {
@@ -30,6 +32,7 @@ const Trips = ({ heading }) => {
   function getTrips(data) {
     const tripsArray = []
     data.allTripsJson.edges.forEach((item, index) => {
+      let path = item.node.link.toString()
       tripsArray.push(
         <ProductCard key={index}>
           <ProductImg
@@ -42,8 +45,9 @@ const Trips = ({ heading }) => {
               <ImLocation />
               <ProductTitle>{item.node.name}</ProductTitle>
             </TextWrap>
+
             <Button
-              to="/trips"
+              to={`${path}`}
               primary="true"
               round="true"
               css={`
@@ -52,7 +56,7 @@ const Trips = ({ heading }) => {
                 font-size: 14px;
               `}
             >
-              {item.node.button}
+              {item.node.price}
             </Button>
           </ProductInfo>
         </ProductCard>

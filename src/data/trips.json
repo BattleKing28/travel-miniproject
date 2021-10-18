@@ -3,72 +3,96 @@
       "img": "../assets/images/sikkim.jpg",
       "alt": "img",
       "name": "Sikkim , India",
-      "button": "View Destination"
+      "price": "Starts at ₹-7500/-",
+      "button": "View Destination",
+      "link": "https://battleking28.github.io/about-extra-pages/sikkim"
    },
    {
       "img": "../assets/images/italy.jpg",
       "alt": "img",
       "name": "Italy , Europe",
-      "button": "View Destination"
+      "price": "Starts at ₹-45000/-",
+      "button": "View Destination",
+      "link": "https://battleking28.github.io/about-extra-pages/italy"
    },
    {
       "img": "../assets/images/switzerland.jpg",
       "alt": "img",
       "name": "Switzerland , Europe",
-      "button": "View Destination"
+      "price": "Starts at ₹-55000/-",
+      "button": "View Destination",
+      "link": "https://battleking28.github.io/about-extra-pages/switzerland"
    },
    {
       "img": "../assets/images/paris.jpg",
       "alt": "img",
       "name": "Paris , France",
-      "button": "View Destination"
+      "price": "Starts at ₹-70000/-",
+      "button": "View Destination",
+      "link": "https://battleking28.github.io/about-extra-pages/paris"
    },
    {
       "img": "../assets/images/bali.jpg",
       "alt": "img",
       "name": "Bali , Indonesia",
-      "button": "View Destination"
+      "price": "Starts at Rs-15000/-",
+      "button": "View Destination",
+      "link": "www.facebook.com"
    },
    {
       "img": "../assets/images/dubai.jpg",
       "alt": "img",
       "name": "Dubai , UAE",
-      "button": "View Destination"
+      "price": "Starts at Rs-15000/-",
+      "button": "View Destination",
+      "link": "www.facebook.com"
    },
    {
       "img": "../assets/images/rome.jpg",
       "alt": "img",
       "name": "Rome , Italy",
-      "button": "View Destination"
+      "price": "Starts at Rs-15000/-",
+      "button": "View Destination",
+      "link": "www.facebook.com"
    },
    {
       "img": "../assets/images/crete.jpg",
       "alt": "img",
       "name": "Crete , Greece",
-      "button": "View Destination"
+      "price": "Starts at Rs-15000/-",
+      "button": "View Destination",
+      "link": "www.facebook.com"
    },
    {
       "img": "../assets/images/barcelona.jpg",
       "alt": "img",
       "name": "Barcelona , Spain",
-      "button": "View Destination"
+      "price": "Starts at Rs-15000/-",
+      "button": "View Destination",
+      "link": "www.facebook.com"
    },
    {
       "img": "../assets/images/phuket.jpg",
       "alt": "img",
       "name": "Phuket , Thailand",
-      "button": "View Destination"
+      "price": "Starts at Rs-15000/-",
+      "button": "View Destination",
+      "link": "www.facebook.com"
    },
    {
       "img": "../assets/images/manali.jpg",
       "alt": "img",
       "name": "Manali , India",
-      "button": "View Destination"
+      "price": "Starts at Rs-15000/-",
+      "button": "View Destination",
+      "link": "www.facebook.com"
    },
    {
       "img": "../assets/images/lisbon.jpg",
       "alt": "img",
       "name": "Lisbon , Portugal",
-      "button": "View Destination"
+      "price": "Starts at Rs-15000/-",
+      "button": "View Destination",
+      "link": "www.facebook.com"
    }
 ]

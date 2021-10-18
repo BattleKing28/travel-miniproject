@@ -1,6 +1,12 @@
 export const MenuData = [
-  { title: "About", link: "/about" },
+  {
+    title: "Gallery",
+    link: "https://battleking28.github.io/about-extra-pages/index.html",
+  },
   { title: "Trips", link: "/trips" },
-  { title: "Advisor", link: "https://www.youtube.com/" },
+  {
+    title: "Maps",
+    link: "https://battleking28.github.io/about-extra-pages/map.html",
+  },
   { title: "Contact", link: "/contact" },
 ]

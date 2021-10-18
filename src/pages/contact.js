@@ -10,7 +10,7 @@ import "./contact.css"
 const contact = () => (
   <>
     <Layout>
-      <Seo title="Trips" />
+      <Seo title="Contact" />
       <ContactSection class="contact">
         <ContentDiv class="content">
           <ContentDivh2>Contact Us</ContentDivh2>

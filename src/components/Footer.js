@@ -12,7 +12,7 @@ const Footer = () => {
         </FooterDesc>
         <FooterLinkItems>
           <FooterLinkTitle>Contact Us</FooterLinkTitle>
-          <FooterLink to="/about">Contact</FooterLink>
+          <FooterLink to="/contact">Contact</FooterLink>
           <FooterLink to="/">Support</FooterLink>
           <FooterLink to="/">Destinations</FooterLink>
           <FooterLink to="/">Sponsorships</FooterLink>
@@ -28,10 +28,10 @@ const Footer = () => {
         </FooterLinkItems>
         <FooterLinkItems>
           <FooterLinkTitle>Social Media</FooterLinkTitle>
-          <FooterLink to="/">Instagram</FooterLink>
-          <FooterLink to="/">Facebookt</FooterLink>
-          <FooterLink to="/">Youtube</FooterLink>
-          <FooterLink to="/">Twitter</FooterLink>
+          <FooterLink to="https://www.instagram.com">Instagram</FooterLink>
+          <FooterLink to="https://www.facebook.com">Facebookt</FooterLink>
+          <FooterLink to="https://www.youtube.com">Youtube</FooterLink>
+          <FooterLink to="https://www.twitter.com">Twitter</FooterLink>
         </FooterLinkItems>
       </FooterLinksWrapper>
     </FooterContainer>
