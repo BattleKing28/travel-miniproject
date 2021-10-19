@@ -6,6 +6,7 @@ import { MenuData } from "../data/MenuData"
 import { Button } from "./Button"
 
 const Header = () => {
+  let path = "https://www.goibibo.com/flights/"
   return (
     <Nav>
       <NavLink to="/">THE VOYAGE EXPRESS</NavLink>
@@ -18,7 +19,7 @@ const Header = () => {
         ))}
       </NavMenu>
       <NavBtn>
-        <Button primary="true" round="true" to="/trips">
+        <Button primary="true" round="true" to={`${path}`}>
           Book a Flight
         </Button>
       </NavBtn>
